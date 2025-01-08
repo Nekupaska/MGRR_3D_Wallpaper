@@ -7,3 +7,6 @@ Requires <a href="https://github.com/rocksdanister/lively">Lively Wallpaper</a> 
 
 Preview:
 ![alt text](https://github.com/Nekupaska/MGRR_3D_Wallpaper/blob/main/Assets/Preview.png?raw=true)
+
+Animated preview:
+![Twitter link](https://x.com/NekuBaba/status/1624682506661376004/video/1)
